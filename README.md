@@ -5,7 +5,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
-## Start npm with `npm start` after that start electron with `npm run electron` make sure you have electron-starter.js file in `src/electon-starter.js` with mainWindow.loadURL having url of react app in parameter 
+## Start npm with ### `npm start` ## after that start electron with ### `npm run electron` ## make sure you have electron-starter.js file in ### `src/electon-starter.js` ## with ### mainWindow.loadURL ## having url of react app in parameter 
+
+
+
 ### `npm start`
 
 Runs the app in the development mode.\
