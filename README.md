@@ -1,11 +1,10 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Getting Started with react-electron-app
 
 ## Available Scripts
 
-In the project directory, you can run:
-### Start npm with ***`npm start`*** after that start electron with ***`npm run electron`*** make sure you have electron-starter.js file in ***`src/electon-starter.js`*** with mainWindow.loadURL having url of react app in parameter 
+### In the project directory, you can run:
+
+Start npm with ***`npm start`*** after that start electron with ***`npm run electron`*** make sure you have electron-starter.js file in ***`src/electon-starter.js`*** with mainWindow.loadURL having url of react app in parameter 
 
 
 ### `npm start`
